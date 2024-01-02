@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a passionate Computer Science and Engineering student entering my second year at IIITH. Enthusiastic about all things tech, I'm currently diving deep into algorithms, data structures, and software engineering principles.
+Hello! I'm a passionate Computer Science and Engineering student currently in second year at IIITH. Enthusiastic about all things tech, I'm currently diving deep into algorithms, data structures, and software engineering principles.
 
 
 ## 🌐 Socials:
